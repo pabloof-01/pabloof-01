@@ -1,16 +1,32 @@
-## Hi there 👋
+### ¡Hola! Soy Pablo Olivero 👋
 
-<!--
-**pabloof-01/pabloof-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💻 Sobre mí
+Ingeniero Civil Industrial y desarrollador de aplicaciones Full-Stack Python Trainee en proceso de aprendizaje. Enfocado en las buenas prácticas y en el cumplimiento de metas, con capacidad de adaptación y alta orientación de resultados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ---
+
+### 🛠️ Stack Tecnológico
+
+*   **Backend & Lenguajes:** Python.
+*   **Frontend:** JavaScript, HTML5, CSS3, Bootstrap.
+*   **Cloud & DevOps:** GitHub.
+*   **Bases de Datos:** PostgreSQL.
+*   **Entorno & Herramientas:** VS Code.
+
+---
+
+### 📊 Métricas de Actividad
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pabloof-01&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloof-01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 🛡️ Enlaces & Contacto Profesional
+*Las propuestas o contactos técnicos se canalizan de forma directa a través de perfiles profesionales o plataformas de reclutamiento.*
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pabloof-01)
