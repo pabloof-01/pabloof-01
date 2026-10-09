@@ -3,7 +3,7 @@
 ---
 
 ### 💻 Sobre mí
-Ingeniero Civil Industrial y desarrollador de aplicaciones Full-Stack Python Trainee en proceso de aprendizaje. Enfocado en las buenas prácticas y en el cumplimiento de metas, con capacidad de adaptación y alta orientación de resultados.
+Ingeniero Civil Industrial e Ingeniero Mecánico en Mantenimiento Industrial, desarrollador de aplicaciones Full-Stack Python Trainee en curso. Enfocado en las buenas prácticas y en el cumplimiento de metas, con capacidad de adaptación y alta orientación de resultados.
 
  ---
 
