@@ -35,6 +35,4 @@ Ingeniero Civil Industrial e Ingeniero Mecánico en Mantenimiento Industrial, de
 ### 🛡️ Enlaces & Contacto Profesional
 *Las propuestas o contactos técnicos se canalizan de forma directa a través de perfiles profesionales o plataformas de reclutamiento.*
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pabloof-01)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-olivero)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pabloof-01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-olivero)
