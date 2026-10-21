@@ -3,7 +3,13 @@
 ---
 
 ### 💻 Sobre mí
+
 Ingeniero Civil Industrial e Ingeniero Mecánico en Mantenimiento Industrial, desarrollador de aplicaciones Full-Stack Python Trainee en curso. Enfocado en las buenas prácticas y en el cumplimiento de metas, con capacidad de adaptación y alta orientación de resultados.
+
+- 🎓 Estoy formándome en desarrollo web con Python en Desafío Latam.
+- 🏠 Mi proyecto más reciente es ArriendaYa, una plataforma de arriendo de inmuebles con usuarios, permisos y solicitudes.
+- 🎨 Me interesa el desarrollo front-end: crear interfaces ordenadas, claras y fáciles de usar.
+- 💼 Busco mi primer trabajo como desarrollador junior.
 
  ---
 
@@ -30,3 +36,5 @@ Ingeniero Civil Industrial e Ingeniero Mecánico en Mantenimiento Industrial, de
 *Las propuestas o contactos técnicos se canalizan de forma directa a través de perfiles profesionales o plataformas de reclutamiento.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pabloof-01)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-olivero)
