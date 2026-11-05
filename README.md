@@ -4,7 +4,7 @@
 
 ### 💻 Sobre mí
 
-Ingeniero Civil Industrial e Ingeniero Mecánico en Mantenimiento Industrial, desarrollador de aplicaciones Full-Stack Python Trainee. Enfocado en las buenas prácticas y en el cumplimiento de metas, con capacidad de adaptación y alta orientación de resultados.
+Ingeniero Civil Industrial, desarrollador de aplicaciones Full Stack Python Trainee. Enfocado en las buenas prácticas y en el cumplimiento de metas, con capacidad de adaptación y alta orientación de resultados.
 
 - 🎓 Me forme en desarrollo web con Python en Desafío Latam.
 - 🏠 Mi proyecto más reciente es ArriendaYa, una plataforma de arriendo de inmuebles con usuarios, permisos y solicitudes.
